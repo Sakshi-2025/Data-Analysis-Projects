@@ -1,4 +1,4 @@
-Data Analysis Projects using Python, Power BI, and Visualization Tools
+## Data Analysis Projects using Python, Power BI, and Visualization Tools
 This repository contains a collection of data analysis projects using Python, Power BI, and various visualization tools. The projects demonstrate the process of data cleaning, exploration, analysis, and visualization using different tools, including Jupyter Notebooks, Power BI (.pbix files), and other visualization techniques.
 
 Table of Contents
